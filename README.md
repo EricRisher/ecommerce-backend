@@ -58,6 +58,8 @@ Driven by a passion for simplifying backend development, I created this project 
 These steps will set up the project, initialize the database, and start the application. Adjust configurations as needed for your environment.
 
   ## Usage
+Find a complete video walkthrough [here!](https://drive.google.com/file/d/1YtVS05obm7KY2QoKisPH8Zx2n_MvRq9M/view?usp=sharing)
+  
 ### 1. **Get Categories, Products, and Tags:**
    - **Request Type:** GET
    - **Endpoint:** `localhost:3001/api/categories`
